@@ -1,5 +1,5 @@
 # Html/CSS Email Ad Template
-Simple To-do list.  
+Shopping email ad  
 
 ![](img/emailAd.JPG)
 
